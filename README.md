@@ -1,56 +1,64 @@
-# Hey there, I'm Kauê 👋
+Hi, I'm Kauê
 
-I'm currently pursuing an **Associate Degree in Cybersecurity** and building hands-on experience toward a career as a **SOC Analyst L1 / Junior Cybersecurity Analyst**.
+I'm currently pursuing an Associate Degree in Cybersecurity and building hands-on experience toward a career as a SOC Analyst L1 / Junior Cybersecurity Analyst.
 
-My current focus is on security monitoring, log analysis, Windows, Linux, networking, incident investigation, and SOC workflows.
+My focus is on security monitoring, log analysis, incident investigation, Windows and Linux security, and networking.
 
-I'm developing my practical skills through a cybersecurity home lab, simulated SOC investigations, and security-focused projects.
+Currently working on
 
-# Cybersecurity Focus
+Building my own SOC homelab to practice security monitoring, log analysis, alert triage, and incident investigation in a controlled environment.
 
-* SOC operations fundamentals
-* Security monitoring
-* Alert investigation
-* Log analysis
-* Incident response fundamentals
-* Windows security
-* Linux
-* Networking
-* SIEM fundamentals
+Currently learning
+SOC operations and alert triage
+SIEM and security monitoring
+Log analysis
+Incident response fundamentals
+Windows security
+Linux security
+Networking
+Technical Skills
 
-# Technologies
+Operating Systems: Windows, Linux, Ubuntu
+Networking: TCP/IP, DNS, HTTP/HTTPS, ports and protocols
+Virtualization: VirtualBox
+Security: Log analysis, security monitoring, incident investigation fundamentals
 
-* Windows
-* Linux / Ubuntu
-* Kali Linux
-* VirtualBox
-* Networking
-* SIEM / security monitoring tools
+Projects
+SOC L1 Homelab
 
-# Languages
+Currently building a virtualized cybersecurity lab for practicing SOC workflows and security investigations.
 
-* Portuguese — Fluent
-* English — Fluent
-* Spanish — Fluent
-* French — Intermediate
-* Russian — Intermediate
+Environment: Windows, Ubuntu, Kali Linux, VirtualBox
 
-###  Professional Background
+Documentation coming soon.
 
-My previous professional experience includes working as a **Physics and Mathematics teacher in public education** and in **Help Desk / Customer Success in a Military Police Unit in Brazil**.
+SOC Alert Investigations
 
-These roles developed strong communication, troubleshooting, analytical thinking, documentation, and problem-solving skills that I am now applying to cybersecurity.
+Hands-on investigation write-ups covering simulated security alerts, including authentication anomalies, suspicious processes, PowerShell activity, and potential lateral movement.
 
-###  Career Goal
+Coming soon.
 
-I’m currently looking for:** Remote opportunities as a SOC Analyst L1 / Junior Cybersecurity Analyst.
+Education
 
-I'm especially interested in security operations, monitoring, alert triage, incident investigation, and continuing to develop practical cybersecurity skills.
+Associate Degree in Cybersecurity — In Progress
 
- **I’m currently working on:** Building a home SOC lab with Ubuntu, Kali Linux, Windows, and VirtualBox, while documenting SOC L1 investigations and security alerts.
+Professional Background
 
- **I’m currently learning:** Security monitoring, log analysis, SIEM, incident response, Linux, Windows security, and networking.
+My previous experience includes working as a Physics and Mathematics teacher in public education and in Help Desk / Customer Success.
 
- **Languages:** Portuguese, English, and Spanish — fluent | French and Russian — intermediate.
+These roles helped me develop analytical thinking, troubleshooting, communication, documentation, and problem-solving skills that I now apply to cybersecurity.
 
+Languages
+Portuguese — Fluent
+English — Fluent
+Spanish — Fluent
+French — Intermediate
+Russian — Intermediate
+Career Goal
+
+I'm currently preparing for opportunities as a SOC Analyst L1 / Junior Cybersecurity Analyst, with particular interest in remote international and contractor positions.
+
+A little about me
+
+I started my career teaching Physics and Mathematics. Now I'm applying the same analytical mindset to cybersecurity — solving a different kind of problem.
  **Fun fact:** I’m a Physics and Mathematics teacher and a retired Military Police Officer transitioning into cybersecurity — so I spend my time switching between equations, networks, and security alerts. 😄
